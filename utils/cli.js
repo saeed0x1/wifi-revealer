@@ -8,12 +8,6 @@ const flags = {
 		alias:"i",
 		desc:"Interface name (Put the name inside qoutations)"
 	},
-	noBanner:{
-		type:"boolean",
-		alias:"nb",
-		default:true,
-		desc:"No banner"
-	},
 	clear: {
 		type: `boolean`,
 		default: false,
