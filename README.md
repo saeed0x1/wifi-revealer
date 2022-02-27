@@ -1,4 +1,4 @@
-# Wifi-revealer 
+# Wifi-revealer 🔑
 A cli to find wifi passwords. Using this cli you can find saved wifi passwords.
 
 
